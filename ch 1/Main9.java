@@ -1,4 +1,4 @@
-public class Main {
+public class Main9 {
     public static void main(String[] args) {
         double w = 4.5;
         double h = 7.9;

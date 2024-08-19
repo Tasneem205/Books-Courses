@@ -1,4 +1,4 @@
-public class Main {
+public class Main10 {
     public static void main(String[] args) {
         // 1 kilometer ≈ 0.621371 miles
         double l = 14 * 0.621371;

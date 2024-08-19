@@ -1,4 +1,4 @@
-public class Main {
+public class Main13 {
     public static void main(String[] args) {
         // ax + by = e
         // 3.4x + 50.2y = 44.5

@@ -1,4 +1,4 @@
-public class Main {
+public class Main12 {
     public static void main(String[] args) {
         // 1 mile = 1.6 km
         double l = 24*1.6;
