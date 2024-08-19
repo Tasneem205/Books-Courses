@@ -6,7 +6,7 @@ public class Main1{
         System.out.print("Enter a degree in Celsius: ");
         double cel = input.nextDouble();
         double fahr = (9.0 / 5.0) * cel + 32;
-        System.out.println(cel + " Celsius is" + fahr + " Fahrenheit");
+        System.out.println(cel + " Celsius is " + fahr + " Fahrenheit");
         input.close();
     }
 }
