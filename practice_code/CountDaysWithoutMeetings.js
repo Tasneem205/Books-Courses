@@ -1,4 +1,5 @@
 /**
+ * A leetcode problem
  * @param {number} days
  * @param {number[][]} meetings
  * @return {number}
